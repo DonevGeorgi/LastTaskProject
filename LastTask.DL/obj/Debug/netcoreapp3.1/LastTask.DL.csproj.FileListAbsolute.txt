@@ -1,0 +1,12 @@
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\bin\Debug\netcoreapp3.1\LastTask.DL.deps.json
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\bin\Debug\netcoreapp3.1\LastTask.DL.dll
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\bin\Debug\netcoreapp3.1\LastTask.DL.pdb
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\bin\Debug\netcoreapp3.1\LastTask.Models.dll
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\bin\Debug\netcoreapp3.1\LastTask.Models.pdb
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.csprojAssemblyReference.cache
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.AssemblyInfoInputs.cache
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.AssemblyInfo.cs
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.csproj.CopyComplete
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.dll
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.pdb
+C:\Users\FockIt\source\repos\LastTask\LastTask.DL\obj\Debug\netcoreapp3.1\LastTask.DL.csproj.CoreCompileInputs.cache

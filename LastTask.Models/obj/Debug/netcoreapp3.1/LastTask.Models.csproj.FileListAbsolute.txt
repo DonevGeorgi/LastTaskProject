@@ -1,0 +1,9 @@
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\bin\Debug\netcoreapp3.1\LastTask.Models.deps.json
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\bin\Debug\netcoreapp3.1\LastTask.Models.dll
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\bin\Debug\netcoreapp3.1\LastTask.Models.pdb
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\obj\Debug\netcoreapp3.1\LastTask.Models.csprojAssemblyReference.cache
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\obj\Debug\netcoreapp3.1\LastTask.Models.AssemblyInfoInputs.cache
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\obj\Debug\netcoreapp3.1\LastTask.Models.AssemblyInfo.cs
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\obj\Debug\netcoreapp3.1\LastTask.Models.dll
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\obj\Debug\netcoreapp3.1\LastTask.Models.pdb
+C:\Users\FockIt\source\repos\LastTask\LastTask.Models\obj\Debug\netcoreapp3.1\LastTask.Models.csproj.CoreCompileInputs.cache
